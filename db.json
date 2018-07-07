@@ -5,7 +5,7 @@
     { "id": 3, "title": "Protes Operasi","author": "JawaPos.com", "image":  "https://s3-ap-southeast-1.amazonaws.com/jawapos/thumbnails/670_446_mahasiswa-asal-papua-protes-operasi-yustisi_m_225859.jpg" },    
     { "id": 4, "title": "Bom Pasuruan", "author": "Fathiyah Wardah", "image": "https://gdb.voanews.com/FEBEBD71-18C3-4807-B05F-C89F5F144221_cx0_cy4_cw0_w1200_r1_s.jpg" },
     { "id": 5, "title": "Anggota DPRD Pontianak","author": "JawaPos.com", "image": "https://s3-ap-southeast-1.amazonaws.com/jawapos/thumbnails/670_446_adik-anggota-dprd-pontianak-yang-mutilasi-ibu-kandung-diobservasi-rsj_m_225871.jpg" },
-    { "id": 6, "title": "Protes Operasi","author": "JawaPos.com", "image":  "https://s3-ap-southeast-1.amazonaws.com/jawapos/thumbnails/670_446_mahasiswa-asal-papua-protes-operasi-yustisi_m_225859.jpg" },
+    { "id": 6, "title": "Protes Operasi","author": "JawaPos.com", "image":  "https://s3-ap-southeast-1.amazonaws.com/jawapos/thumbnails/670_446_mahasiswa-asal-papua-protes-operasi-yustisi_m_225859.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
